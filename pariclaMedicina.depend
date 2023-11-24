@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1700048277 source:c:\users\usuario\desktop\parcial segundo cuatri\pariclamedicina\librerialistas.c
+	"libreriaListas.h"
+
+1700012602 c:\users\usuario\desktop\parcial segundo cuatri\pariclamedicina\librerialistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700050347 source:c:\users\usuario\desktop\parcial segundo cuatri\pariclamedicina\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaCelda.h"
+	"libreriaListas.h"
+
+1700049927 source:c:\users\usuario\desktop\parcial segundo cuatri\pariclamedicina\libreriacelda.c
+	"libreriaCelda.h"
+
+1700012878 c:\users\usuario\desktop\parcial segundo cuatri\pariclamedicina\libreriacelda.h
+	"libreriaListas.h"
+
+1700048277 source:c:\users\usuario\desktop\parcial 1 y resolucion\parciales 2do cuatri\pariclamedicinaadl\librerialistas.c
+	"libreriaListas.h"
+
+1700831499 c:\users\usuario\desktop\parcial 1 y resolucion\parciales 2do cuatri\pariclamedicinaadl\librerialistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700831238 source:c:\users\usuario\desktop\parcial 1 y resolucion\parciales 2do cuatri\pariclamedicinaadl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaCelda.h"
+	"libreriaListas.h"
+
+1700012878 c:\users\usuario\desktop\parcial 1 y resolucion\parciales 2do cuatri\pariclamedicinaadl\libreriacelda.h
+	"libreriaListas.h"
+
+1700831499 source:c:\users\usuario\desktop\parcial 1 y resolucion\parciales 2do cuatri\pariclamedicinaadl\libreriacelda.c
+	"libreriaCelda.h"
+
